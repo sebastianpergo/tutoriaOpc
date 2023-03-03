@@ -1,0 +1,7 @@
+{
+  "name": "tutoriaOpc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
